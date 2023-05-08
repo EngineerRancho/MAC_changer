@@ -3,10 +3,13 @@ Change the MAC addres of the connection untill the connection fails. #MAC
 
 ### Root required
 
+### Usage
+```
 sudo su
 git clone https://github.com/EngineerRancho/MAC_changer
 cd MAC_changer
 python MAC_changer.py
+```
 
 ![](.Screenshot.png)
 
