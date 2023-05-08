@@ -5,9 +5,9 @@ Change the MAC addres of the connection untill the connection fails. #MAC
 
 ### Usage
 ```
-sudo su
 git clone https://github.com/EngineerRancho/MAC_changer
 cd MAC_changer
+sudo su
 python MAC_changer.py
 ```
 
