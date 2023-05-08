@@ -1,6 +1,6 @@
 # MAC_changer
 
-##Easiest and beginer friendly tool
+## Easiest and beginer friendly tool
 
 Change the MAC addres of the connection untill the connection fails. #MAC
 
