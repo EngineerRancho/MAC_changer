@@ -25,7 +25,7 @@ python3 MAC_Changer_Parsing.py -i [interface] -m [New MAC address]
 
 ![](.Screenshot.png)
 or 
-![](.Screenshot2.png)
+![](Screenshot2.png)
 
 
 ### This program changes the connection Make address to a new self defined MAC address for the anonymous surfing and get indetedcted by the service provider,
