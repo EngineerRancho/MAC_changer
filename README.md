@@ -13,6 +13,14 @@ cd MAC_changer
 sudo su
 python MAC_changer.py
 ```
+## or
+```
+git clone https://github.com/EngineerRancho/MAC_changer
+cd MAC_changer
+sudo su
+python3 MAC_Changer_Parsing.py -i wlan0 -m 00:11:22:33:44:4e
+```
+
 ### Drop Your ★★★★★
 
 ![](.Screenshot.png)
