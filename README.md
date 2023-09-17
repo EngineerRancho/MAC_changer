@@ -24,6 +24,9 @@ python3 MAC_Changer_Parsing.py -i [interface] -m [New MAC address]
 ### Drop Your ★★★★★
 
 ![](.Screenshot.png)
+or 
+![](.Screenshot2.png)
+
 
 ### This program changes the connection Make address to a new self defined MAC address for the anonymous surfing and get indetedcted by the service provider,
 ### This creates a new MAC address to manage the dispute of real service provider, whiich device has done what..
