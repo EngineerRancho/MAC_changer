@@ -2,7 +2,7 @@
 
 ## Easiest and beginer friendly tool
 
-To Change the MAC address of the connection untill the connection fails. 
+To Change the MAC address of the connection until the connection fails. 
 
 ### Root required
 
