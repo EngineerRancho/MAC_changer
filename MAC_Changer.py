@@ -1,8 +1,46 @@
 import subprocess
 import os
 import optparse
-print("1. Ehernet ")
-print("2. Wifi ")
+
+print("                                           ")
+print("                     `.-//:://:...         ")       
+print("                 `/ymNNNNMNNNNNNNNmo/-`    ")       
+print("                :dNMMMMMMMMMMMMMMMMMNNh    ")       
+print("               /NMMMMMMMMMMMMMMMMMMMMMN.   ")       
+print("              -mMMMMMMMMMMMNNMMMMMMMMMh`   ")       
+print("              hMMMNmhsyyysoooshdNMMMMd.    ")       
+print("              dMMNy+:--.....--:/oyNMMNo    ")       
+print("              sMMm/:-.........--:/hMMMh    ")       
+print("              .Nm+/+/::.````-::/++omMM+    ")       
+print("               ys:yddddy:``-sddddhs+Nd`    ")       
+print("              `/:-/ssd/::..::/ydsy/:d/`    ")       
+print("              --...---..-..--.-/-:--//:    ")       
+print("              --..`````....--.```..-:/:    ")       
+print("              -:..`````.-`.:-````..-:+.    ")       
+print("               ``.````.----:-.```..---     ")       
+print("                 ```.-::---::::...-.       ")       
+print("                 ````.-:--:-::-....`       ")       
+print("                  `.....-::-....--`        ")       
+print("                  ------------::::-        ")       
+print("                 ./--:::///+////://        ")       
+print("                  .---------::::::`        ")       
+print("                    `....-------.`         ")       
+print("                      `.....-..`           ")       
+print("                       --.`....            ")       
+print("                      .sdhhyhmy.           ")       
+print("                        -hMmNo`            ")       
+print("                         `dNy              ")       
+print("                          hms              ")       
+print("                         -NmN.   Pt.Gaurav ")       
+print("                         oNdMs    Sharma   ")       
+print("                         ydhMm`            ")       
+print("                        `ddhNM-            ")       
+print("                        .ddddM/        .+` ")   
+
+
+print(" ")
+print(" 1. Ehernet ")
+print(" 2. Wifi ")
 
 connection = "wlan0"
 
