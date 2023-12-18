@@ -31,11 +31,16 @@ print("                      .sdhhyhmy.           ")
 print("                        -hMmNo`            ")       
 print("                         `dNy              ")       
 print("                          hms              ")       
-print("                         -NmN.   Pt.Gaurav ")       
+print("                         -NmN.   Pt.Gaurav ")      
+# print("\033[0m                         -NmN.   \033[5mPt.Gaurav ")
+# print("\033[0m                         oNdMs    \033[5mSharma \033[0m")
+# print("\033[0m")
+# 
 print("                         oNdMs    Sharma   ")       
 print("                         ydhMm`            ")       
 print("                        `ddhNM-            ")       
-print("                        .ddddM/        .+` ")   
+print("                        .ddddM/       \033[5m.+` \033[0m ")   
+ 
 
 
 print(" ")
